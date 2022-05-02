@@ -25,8 +25,8 @@ Deploying Logistic Regression through scikit-learn SGD Classifier
 
 | Index |	Column |	Description |
 | :-- | :-- | :-- |
-1.	variance	Variance of Wavelet Transformed image
-2.	skew	Skewness of Wavelet Transformed image
-3.	curto	Curtosis of Wavelet Transformed image
-4.	entropy	Entropy of image
-5.	class	Taget class: "0" for forged and "1" for genuine
+|1.	| variance |	Variance of Wavelet Transformed image |
+|2. | skew |	Skewness of Wavelet Transformed image |
+|3. |	curto |	Curtosis of Wavelet Transformed image |
+|4. |	entropy |	Entropy of image |
+|5. |	class |	Taget class: "0" for forged and "1" for genuine |
